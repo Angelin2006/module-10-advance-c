@@ -190,6 +190,7 @@ Program:
     
 Output:
 
+<img width="568" height="681" alt="image" src="https://github.com/user-attachments/assets/f26019d9-4513-490c-bd5d-9e984421bdb7" />
 
 Result:
 
